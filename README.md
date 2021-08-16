@@ -34,16 +34,16 @@
 
 ## Background
    
-    PPO is a very popular Reinforcement Learning algorithm at present.
-     OpenAI takes PPO as the current baseline algorithm. 
-    We use the PPO algorithm to train a policy to give the best action in any situation.
+PPO is a very popular Reinforcement Learning algorithm at present.
+OpenAI takes PPO as the current baseline algorithm. 
+We use the PPO algorithm to train a policy to give the best action in any situation.
 
-    Normalize tensors based on streaming estimates of mean and variance.
-    Centering the value, scaling it by the standard deviation, and clipping outlier values are optional.
+Normalize tensors based on streaming estimates of mean and variance.
+Centering the value, scaling it by the standard deviation, and clipping outlier values are optional.
 
-    Create a memory that stores episodes.
-    Each transition tuple consists of quantities specified by the template.
-    These quantities would typically be be observartions, actions, rewards, and done indicators.
+Create a memory that stores episodes.
+Each transition tuple consists of quantities specified by the template.
+These quantities would typically be be observartions, actions, rewards, and done indicators.
 
 
 
@@ -55,7 +55,7 @@
 <!-- links -->
 [your-project-path]:https://github.com/Rosefintech/Rosefintech-RosefinAIEngine
 [stars-shield]: https://img.shields.io/github/stars/Rosefintech/Rosefintech-RosefinAIEngine
-[stars-url]: 	https://github.com/Rosefintech/Rosefintech-RosefinAIEngine/stargazers
+[stars-url]: 	https://img.shields.io/github/stars/Rosefintech/Rosefintech-RosefinAIEngine
 [issues-shield]: 	https://img.shields.io/github/issues/Rosefintech/Rosefintech-RosefinAIEngine
 [issues-url]: https://github.com/Rosefintech/Rosefintech-RosefinAIEngine/issues
 [license-shield]: https://img.shields.io/github/license/Rosefintech/Rosefintech-RosefinAIEngine
