@@ -55,7 +55,7 @@
 <!-- links -->
 [your-project-path]:https://github.com/Rosefintech/Rosefintech-RosefinAIEngine
 [stars-shield]: https://img.shields.io/github/stars/Rosefintech/Rosefintech-RosefinAIEngine
-[stars-url]: 	https://img.shields.io/github/stars/Rosefintech/Rosefintech-RosefinAIEngine/stargazers
+[stars-url]: 	https://github.com/Rosefintech/Rosefintech-RosefinAIEngine/stargazers
 [issues-shield]: 	https://img.shields.io/github/issues/Rosefintech/Rosefintech-RosefinAIEngine
 [issues-url]: https://github.com/Rosefintech/Rosefintech-RosefinAIEngine/issues
 [license-shield]: https://img.shields.io/github/license/Rosefintech/Rosefintech-RosefinAIEngine
