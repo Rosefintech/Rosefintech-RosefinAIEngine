@@ -34,7 +34,8 @@
 
 ## Background
    
-    PPO is a very popular Reinforcement Learning algorithm at present. OpenAI takes PPO as the current baseline algorithm. 
+    PPO is a very popular Reinforcement Learning algorithm at present.
+     OpenAI takes PPO as the current baseline algorithm. 
     We use the PPO algorithm to train a policy to give the best action in any situation.
 
     Normalize tensors based on streaming estimates of mean and variance.
