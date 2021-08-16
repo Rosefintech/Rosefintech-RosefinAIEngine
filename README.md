@@ -35,12 +35,17 @@
 ## Background
    
     PPO is a very popular Reinforcement Learning algorithm at present. OpenAI takes PPO as the current baseline algorithm. 
-
     We use the PPO algorithm to train a policy to give the best action in any situation.
 
     Normalize tensors based on streaming estimates of mean and variance.
     Centering the value, scaling it by the standard deviation, and clipping outlier values are optional.
-    
+
+    Create a memory that stores episodes.
+    Each transition tuple consists of quantities specified by the template.
+
+    These quantities would typically be be observartions, actions, rewards, and done indicators.
+
+
 
 
 ## License
