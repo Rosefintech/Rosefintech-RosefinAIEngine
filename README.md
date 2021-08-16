@@ -43,7 +43,6 @@
 
     Create a memory that stores episodes.
     Each transition tuple consists of quantities specified by the template.
-
     These quantities would typically be be observartions, actions, rewards, and done indicators.
 
 
