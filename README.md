@@ -53,8 +53,7 @@ These quantities would typically be be observartions, actions, rewards, and done
 
 ## Contact
 
- E-MAIL: orbit@rosefin.tech
-
+ E-MAIL: dev.rosefintech@gmail.com
 
 ## License
 
