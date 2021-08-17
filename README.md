@@ -29,6 +29,8 @@
 
 
 - [Background](#background)
+- [Community](#community)
+- [Contact](#contact)
 - [License](#license)
 
 
@@ -45,7 +47,13 @@ Create a memory that stores episodes.
 Each transition tuple consists of quantities specified by the template.
 These quantities would typically be be observartions, actions, rewards, and done indicators.
 
+## Community
 
+ DISCORD: [https://discord.gg/FEX4cBgHbR](https://discord.gg/FEX4cBgHbR)
+
+## Contact
+
+ E-MAIL: orbit@rosefin.tech
 
 
 ## License
